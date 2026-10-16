@@ -1,0 +1,16 @@
+# Archivos generados
+.gradle/
+build/
+out/
+
+# Archivos locales del IDE
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Secretos y configuración local
+.env
+*.local
