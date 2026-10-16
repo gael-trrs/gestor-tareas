@@ -25,6 +25,7 @@ public class Main {
 
                 switch (opcion) {
                     case 1:
+                        // Opción validada: el registro funciona correctamente
                         registrarTarea(scanner);
                         break;
                     case 2:
