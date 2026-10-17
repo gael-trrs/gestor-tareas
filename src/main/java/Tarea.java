@@ -9,6 +9,7 @@ public class Tarea {
         this.completada = false; // Inicia como pendiente por defecto
     }
 
+    
     public int getId() { return id; }
     public String getDescripcion() { return descripcion; }
     public boolean isCompletada() { return completada; }
