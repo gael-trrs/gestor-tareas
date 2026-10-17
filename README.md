@@ -2,6 +2,7 @@
 
 ## Integrantes
 * Gael Andrés Torres González
+* Maria Camila Montesinos Romero
 
 
 
